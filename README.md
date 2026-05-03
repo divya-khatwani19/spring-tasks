@@ -14,11 +14,15 @@ Projects Included
 - SOAP based web service for CRUD operations
 - Uses Spring Web Services
 
-Tech Stack
-
-- Java
-- Spring Boot
-- Maven
+3. TODO Spring MVC Application
+- Built using Spring Boot + Spring MVC
+- JSP used as View
+- Features:
+  - Add Task
+  - View Tasks
+  - Delete Task
+- Uses Controller-Service architecture
+- In-memory data storage
 
  Author
  Divya Khatwani
